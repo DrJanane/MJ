@@ -8541,3 +8541,17 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+/* ===============================
+   ABOUT PAGE FINAL FIX
+   =============================== */
+
+#colorlib-main {
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.hero-wrap-2 {
+  min-height: auto;
+  height: auto;
+  padding: 120px 0;
+}
