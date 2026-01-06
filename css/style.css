@@ -8541,21 +8541,3 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
-/* ===============================
-   ABOUT PAGE – FIX CONTENT CUT OFF
-   =============================== */
-
-.hero-wrap-2.js-fullheight,
-.hero-wrap-2 .js-fullheight {
-  height: auto !important;
-}
-
-.hero-wrap-2 .d-flex {
-  align-items: flex-start !important;
-}
-
-#colorlib-main {
-  overflow-y: auto;
-  height: auto;
-}
-
